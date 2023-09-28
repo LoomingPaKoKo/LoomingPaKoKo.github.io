@@ -10732,7 +10732,6 @@ h1.page-title + .tag-cloud-list {
     -o-transform: rotate(0deg) translateY(0) scale(1);
     -ms-transform: rotate(0deg) translateY(0) scale(1);
     transform: rotate(0deg) translateY(0) scale(1);
-    filter: blur(0px);
     width: 100%;
     position: absolute;
     height: 100vh;
