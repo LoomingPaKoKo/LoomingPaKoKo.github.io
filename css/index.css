@@ -3104,6 +3104,9 @@ figure.highlight pre .javascript .function {
 #article-container figure.highlight .line.marked {
   background-color: rgba(128,203,196,0.251);
 }
+#article-container figure.highlight .code-expand-btn.expand-done ~ table .code pre {
+  padding-bottom: 40px;
+}
 #article-container figure.highlight table {
   display: block;
   overflow: auto;
@@ -3112,6 +3115,14 @@ figure.highlight pre .javascript .function {
 #article-container figure.highlight table td {
   padding: 0;
   border: none;
+}
+#article-container figure.highlight .gutter {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
 }
 #article-container figure.highlight .gutter pre {
   padding-right: 0.625rem;
