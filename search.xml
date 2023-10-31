@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>君子书项目进程记录</title>
+      <link href="/2023/10/16/%E5%90%9B%E5%AD%90%E4%B9%A6%E9%A1%B9%E7%9B%AE%E8%BF%9B%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+      <url>/2023/10/16/%E5%90%9B%E5%AD%90%E4%B9%A6%E9%A1%B9%E7%9B%AE%E8%BF%9B%E7%A8%8B%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h1><h2 id="2023-10-16"><a href="#2023-10-16" class="headerlink" title="2023.10.16"></a>2023.10.16</h2><ul><li><p><input checked="" disabled="" type="checkbox"> 群聊主界面的UI实现</p></li><li><p><input checked="" disabled="" type="checkbox"> 群聊聊天界面的UI实现</p></li></ul><h2 id="2023-10-17"><a href="#2023-10-17" class="headerlink" title="2023.10.17"></a>2023.10.17</h2><ul><li><input checked="" disabled="" type="checkbox"> 修复小程序中Header的高度与宽度问题（与胶囊重叠以及高度错误）</li><li><input checked="" disabled="" type="checkbox"> 群聊群设置界面的UI实现</li><li><input checked="" disabled="" type="checkbox"> 群聊聊天界面中底部输入框的更多-moreFunc.vue的UI实现</li></ul><h2 id="2023-10-18"><a href="#2023-10-18" class="headerlink" title="2023.10.18"></a>2023.10.18</h2><ul><li><input checked="" disabled="" type="checkbox"> 群聊群设置中群成员列表界面的UI实现</li><li><input checked="" disabled="" type="checkbox"> 新增less方法pxtorpx,将样式中的px转换为rpx以保证各机型上图标字体等大小一致</li><li><input checked="" disabled="" type="checkbox"> 修复在键盘弹起时，点击”更多“展示moreFunc组件时导致的页面高度抖动</li></ul><h2 id="2023-10-19"><a href="#2023-10-19" class="headerlink" title="2023.10.19"></a>2023.10.19</h2><ul><li><input checked="" disabled="" type="checkbox"> 修复<strong>小程序页面</strong>初次加载时Header部分的<strong>抖动</strong></li><li><input checked="" disabled="" type="checkbox"> 完成App的登录、注册、忘记密码页面，将获取验证码封装为useVertify</li><li><input disabled="" type="checkbox"> 小程序中点击发送，键盘无法保持弹起状态。目前会回落后再弹起，或回落不弹起，或不回落</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>仓小店项目记录</title>
       <link href="/2023/10/12/%E4%BB%93%E5%B0%8F%E5%BA%97%E5%BA%94%E7%94%A8%E5%AE%9E%E7%8E%B0%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
       <url>/2023/10/12/%E4%BB%93%E5%B0%8F%E5%BA%97%E5%BA%94%E7%94%A8%E5%AE%9E%E7%8E%B0%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/</url>
